@@ -32,4 +32,3 @@ def test_randomforestclassifier():
     arr = np.array([0, 1, 0, 0])
     for i in range(len(answer[2])):
         assert round(answer[2][i], 2) == round(arr[i], 2)
-       
