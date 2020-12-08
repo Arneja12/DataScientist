@@ -2,6 +2,10 @@
 
 [![Join the chat at https://gitter.im/Dacience/DataScientist](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Dacience/DataScientist?utm_source=badge&utm_medium=badge&utm_content=badge)
 
+## LOGO
+
+<img src="Icons\Logo.png" height="250px">
+
 ![GitHub stars](https://img.shields.io/github/stars/Dacience/DataScientist.svg?logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/Dacience/DataScientist.svg?logo=github&color=teal)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -48,11 +52,11 @@ Please make sure to update tests case wherever necessary.
 ##  💼  Code of Conduct
 
 We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
-Please adhere toward our [Code-of-Conduct](code-of-conduct.md).
+Please adhere toward our [Code-of-Conduct](CODE_OF_CONDUCT.md).
 
 ## 🏆 Contributing
 
-Please read  [CONTRIBUTING.md](CONTRIBUTING..md)  for information on how to contribute to DataScientist.
+Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contribute to DataScientist.
 
 ## License
 [MIT](LICENSE)
